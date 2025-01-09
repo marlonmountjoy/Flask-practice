@@ -35,7 +35,7 @@ project-directory/
 1. **Clone the Repository:**
    ```bash
    git clone (https://github.com/marlonmountjoy/Flask-practice.git)
-   cd project-directory
+   cd Flask-practice
    ```
 
 2. **Set Up a Virtual Environment:**
